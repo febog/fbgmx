@@ -1,5 +1,3 @@
-# fbg.mx
-
-## Welcome
+# Welcome
 
 Welcome to my website.
