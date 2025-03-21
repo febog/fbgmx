@@ -2,6 +2,4 @@
 layout: home
 ---
 
-# Welcome
-
-Welcome to my website.
+Hello world!
