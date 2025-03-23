@@ -6,10 +6,6 @@ title: Welcome
 
 Hello world!
 
-Environment: {{ jekyll.environment }}
-
-J version: {{ jekyll.version }}
-
 Add some `text` with format.
 
 ```
